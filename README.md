@@ -11,3 +11,6 @@
 **ENG:** Each example is provided as a standalone `.R` or `.Rmd` file within a specific directory, e.g., `/other/package_progress.R`.
 
 **PL:** Każdy przykład jest przygotowany jako osobny plik `.R` lub `.Rmd` w określonym katalogu np. `/other/package_progress.R`.
+
+## 📝 License
+MIT
