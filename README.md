@@ -5,7 +5,7 @@ PL: Moja osobista baza wiedzy i zestaw "ściągawek" (cheat-sheets) dla bibliote
 
 ## 📁 Spis treści
 * **Data Wrangling**: `data.table` - TO DO
-* **Other**: `progress`
+* **Other**: [`progress`](other/package_progress.R)
 
 ## 🛠️ Jak korzystać?
 Każdy przykład jest przygotowany jako osobny plik `.R` lub `.Rmd` w określonym katalogu np. `/other/package_progress.R`.
